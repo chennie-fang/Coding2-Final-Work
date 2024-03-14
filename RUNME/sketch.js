@@ -24,15 +24,15 @@ let title;
 let end;
 
 function preload() {
-  bg = loadImage("bg.jpg");
-  bear = loadImage("bear.png");
-  panzi = loadImage("panzi.png");
-  photo = loadImage("photo.png");
-  cloud = loadImage("cloud.png");
-  house = loadImage("house.png");
-  start = loadImage("start.jpg");
-  title = loadImage("title.png");
-  end = loadImage("end.png");
+  bg = loadImage("image/bg.jpg");
+  bear = loadImage("image/bear.png");
+  panzi = loadImage("image/panzi.png");
+  photo = loadImage("image/photo.png");
+  cloud = loadImage("image/cloud.png");
+  house = loadImage("image/house.png");
+  start = loadImage("image/start.jpg");
+  title = loadImage("image/title.png");
+  end = loadImage("image/end.png");
   
   
 }
